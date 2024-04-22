@@ -1,2 +1,2 @@
 var="priya"
-print("hello" +var)
+print("hello" +" "+ var)
